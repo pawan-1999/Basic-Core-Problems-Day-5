@@ -25,6 +25,6 @@ namespace BasicCorePrograms
 
  static void Main(string[] args)
         {
-            //PS_7_SwapTwoNumbers obj7 = new PS_7_SwapTwoNumbers();
-            //obj7.swap();
+            PS_7_SwapTwoNumbers obj7 = new PS_7_SwapTwoNumbers();
+            obj7.swap();
         }
